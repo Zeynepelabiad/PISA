@@ -180,4 +180,3 @@ plt.show()
 
 g = sns.pairplot(data=Pisa_df_2015[['Country_code','MATH2015','READ2015','SCIENCE2015','GDP_2015','Population_2015','Life_E_2015']], hue='Country_code', dropna=True)
 plt.show()
-"""
